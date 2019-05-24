@@ -10,6 +10,8 @@ import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import Menu from "./menu"
+
 import "./layout.css"
 
 const Layout = ({ children }) => (
@@ -26,6 +28,7 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
+        <Menu />
         <div
           style={{
             margin: `0 auto`,
@@ -35,6 +38,7 @@ const Layout = ({ children }) => (
           }}
         >
           <main>{children}</main>
+          <hr />
           <footer>
             © {new Date().getFullYear()}, Built with
             {` `}
