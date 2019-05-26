@@ -12,7 +12,7 @@ const Menu = () => (
         justifyContent: 'space-evenly'
       }}>
         <li><Link to = '/'>Index</Link></li>
-        <li><Link to = '/team'>Team</Link></li>
+        <li><Link to = '/teams'>Teams</Link></li>
         <li><Link to = '/about'>About</Link></li>
       </ul>
 
