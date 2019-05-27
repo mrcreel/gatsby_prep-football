@@ -1,19 +1,33 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import menuStyles from './menu.module.scss'
+
 const Menu = () => (
-    <div style = {{
-      background: '#f4f4f4',
-      paddingTop: '10px'
-    }}>
-      <ul style = {{
-        listStyle: 'none',
-        display: 'flex',
-        justifyContent: 'space-evenly'
-      }}>
-        <li><Link to = '/'>Index</Link></li>
-        <li><Link to = '/teams'>Teams</Link></li>
-        <li><Link to = '/about'>About</Link></li>
+    <div className={menuStyles.navBar}>
+      <ul className={menuStyles.navList}>
+        <li>
+          <Link
+            className={menuStyles.navItem}
+            activeClassName={menuStyles.activeNavItem}
+            to ='/'>
+              Index
+          </Link>
+        </li>
+        <li>
+          <Link
+            className={menuStyles.navItem}
+            activeClassName={menuStyles.activeNavItem}
+            to ='/teams'>
+              Teams
+          </Link>
+        </li>
+        <li>
+          <Link
+            className={menuStyles.navItem}
+            activeClassName={menuStyles.activeNavItem}
+            to ='/about'>About</Link>
+        </li>
       </ul>
     </div>
 )

@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `Football`,
-    description: `.`,
+    description: ``,
     author: `Michael R Creel`,
   },
   plugins: [
+    'gatsby-plugin-sass',
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
