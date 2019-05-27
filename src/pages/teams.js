@@ -30,7 +30,7 @@ const TeamsPage = () => {
       <h1>Teams</h1>
       <hr />
       {data.allTeamsJson.edges.map(team =>
-        <div id={team.node.id}>
+        <div key={team.node.id}>
           <Link to="/teams">
             <p>{team.node.name}</p>
           </Link>

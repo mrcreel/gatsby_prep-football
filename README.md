@@ -101,4 +101,3 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 1. Basic 1 page site
 2. Display list from hard coded items
 3. Display list from JSON data
-4. Display list from mongoDB
