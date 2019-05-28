@@ -1,15 +1,15 @@
 {
   "name": "gatsby_prep-football",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A site to show the recent history of Mississippi high school football",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Michael R Creel <Michael.R.Creel@gmail.com>",
   "dependencies": {
     "gatsby": "^2.6.0",
-    "gatsby-image": "^2.1.0",
     "gatsby-plugin-manifest": "^2.1.1",
     "gatsby-plugin-offline": "^2.1.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-robots-txt": "^1.4.0",
     "gatsby-plugin-sass": "^2.0.11",
     "gatsby-plugin-sharp": "^2.0.37",
     "gatsby-source-filesystem": "^2.0.37",
