@@ -3,7 +3,6 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import {
-  Link,
   graphql,
   useStaticQuery
 } from "gatsby"
@@ -16,6 +15,7 @@ const TeamsPage = () => {
         edges{
           node{
             id
+            slug
             name
             url
             status
@@ -27,36 +27,17 @@ const TeamsPage = () => {
   return(
     <Layout>
       <SEO title="Teams" />
-      {data.allTeamsJson.edges.map(team =>
-        <div key={team.node.id} style={{margin: 0}}>
-          <Link to="/teams">
-            <p>{team.node.name}</p>
-          </Link>
-        </div>
-      )}
-      <hr />
-      <p>
-        Total teams: {data.allTeamsJson.totalCount}
-      </p>
+      <ul>
+        {data.allTeamsJson.edges.map(team =>
+          <li key={team.node.id} style={{margin: 0, listStyleType: 'none'}} className='teamItem'>
+              <div>
+                <p>{team.node.name} =>  {team.node.slug} => {team.node.url}</p>
+              </div>
+          </li>
+        )}
+      </ul>
     </Layout>
   )
 }
-
-/**
-graphql`
- query teamsQuery {
-  allTeamsJson{
-    edges{
-      node{
-        id
-        name
-        url
-        status
-      }
-    }
-  }
-}
-`
- */
 
 export default TeamsPage

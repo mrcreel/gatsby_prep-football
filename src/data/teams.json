@@ -1,1625 +1,1625 @@
 [{
-  "id": "aberdeen",
+  "slug": "aberdeen",
   "name": "Aberdeen",
   "url": "/Aberdeen.htm",
   "status": "active"
 }, {
-  "id": "adamscountychristian",
+  "slug": "adamscountychristian",
   "name": "Adams County Christian",
   "url": "/Adamscountychristian.htm",
   "status": "active"
 }, {
-  "id": "alcorncentral",
+  "slug": "alcorncentral",
   "name": "Alcorn Central",
   "url": "/Alcorncentral.htm",
   "status": "active"
 }, {
-  "id": "amite",
+  "slug": "amite",
   "name": "Amite",
   "url": "/Amite.htm",
   "status": "active"
 }, {
-  "id": "amitecounty",
+  "slug": "amitecounty",
   "name": "Amite County",
   "url": "/Amitecounty.htm",
   "status": "active"
 }, {
-  "id": "amory",
+  "slug": "amory",
   "name": "Amory",
   "url": "/Amory.htm",
   "status": "active"
 }, {
-  "id": "ashland",
+  "slug": "ashland",
   "name": "Ashland",
   "url": "/Ashland.htm",
   "status": "active"
 }, {
-  "id": "deercreek",
+  "slug": "deercreek",
   "name": "Deer Creek",
   "url": "/Deercreek.htm",
   "status": "active"
 }, {
-  "id": "deltaacademy",
+  "slug": "deltaacademy",
   "name": "Delta Academy",
   "url": "/Deltaacademy.htm",
   "status": "active"
 }, {
-  "id": "deltastreetsacademy",
+  "slug": "deltastreetsacademy",
   "name": "Delta Streets Academy",
   "url": "/Deltastreetsacademy.htm",
   "status": "active"
 }, {
-  "id": "desotoar",
+  "slug": "desotoar",
   "name": "DeSoto (AR)",
   "url": "/Desotoar.htm",
   "status": "active"
 }, {
-  "id": "desotocentral",
+  "slug": "desotocentral",
   "name": "DeSoto Central",
   "url": "/Desotocentral.htm",
   "status": "active"
 }, {
-  "id": "diberville",
+  "slug": "diberville",
   "name": "D'Iberville",
   "url": "/Diberville.htm",
   "status": "active"
 }, {
-  "id": "durant",
+  "slug": "durant",
   "name": "Durant",
   "url": "/Durant.htm",
   "status": "active"
 }, {
-  "id": "falkner",
+  "slug": "falkner",
   "name": "Falkner",
   "url": "/Falkner.htm",
   "status": "active"
 }, {
-  "id": "florence",
+  "slug": "florence",
   "name": "Florence",
   "url": "/Florence.htm",
   "status": "active"
 }, {
-  "id": "forest",
+  "slug": "forest",
   "name": "Forest",
   "url": "/Forest.htm",
   "status": "active"
 }, {
-  "id": "foresthill",
+  "slug": "foresthill",
   "name": "Forest Hill",
   "url": "/Foresthill.htm",
   "status": "active"
 }, {
-  "id": "forrestcountyahs",
+  "slug": "forrestcountyahs",
   "name": "Forrest County AHS",
   "url": "/Forrestcountyahs.htm",
   "status": "active"
 }, {
-  "id": "franklinacademyla",
+  "slug": "franklinacademyla",
   "name": "Franklin Academy (LA)",
   "url": "/Franklinacademyla.htm",
   "status": "active"
 }, {
-  "id": "franklincounty",
+  "slug": "franklincounty",
   "name": "Franklin County",
   "url": "/Franklincounty.htm",
   "status": "active"
 }, {
-  "id": "frenchcampacademy",
+  "slug": "frenchcampacademy",
   "name": "French Camp Academy",
   "url": "/Frenchcampacademy.htm",
   "status": "active"
 }, {
-  "id": "independence",
+  "slug": "independence",
   "name": "Independence",
   "url": "/Independence.htm",
   "status": "active"
 }, {
-  "id": "indianolaacademy",
+  "slug": "indianolaacademy",
   "name": "Indianola Academy",
   "url": "/Indianolaacademy.htm",
   "status": "active"
 }, {
-  "id": "itawambaahs",
+  "slug": "itawambaahs",
   "name": "Itawamba AHS",
   "url": "/Itawambaahs.htm",
   "status": "active"
 }, {
-  "id": "jacksonacademy",
+  "slug": "jacksonacademy",
   "name": "Jackson Academy",
   "url": "/Jacksonacademy.htm",
   "status": "active"
 }, {
-  "id": "jacksonprep",
+  "slug": "jacksonprep",
   "name": "Jackson Prep",
   "url": "/Jacksonprep.htm",
   "status": "active"
 }, {
-  "id": "jeffersoncounty",
+  "slug": "jeffersoncounty",
   "name": "Jefferson County",
   "url": "/Jeffersoncounty.htm",
   "status": "active"
 }, {
-  "id": "jeffersondaviscounty",
+  "slug": "jeffersondaviscounty",
   "name": "Jefferson Davis County",
   "url": "/Jeffersondaviscounty.htm",
   "status": "active"
 }, {
-  "id": "kemperacademy",
+  "slug": "kemperacademy",
   "name": "Kemper Academy",
   "url": "/Kemperacademy.htm",
   "status": "active"
 }, {
-  "id": "kempercounty",
+  "slug": "kempercounty",
   "name": "Kemper County",
   "url": "/Kempercounty.htm",
   "status": "active"
 }, {
-  "id": "kennedy",
+  "slug": "kennedy",
   "name": "Kennedy",
   "url": "/Kennedy.htm",
   "status": "active"
 }, {
-  "id": "kirkacademy",
+  "slug": "kirkacademy",
   "name": "Kirk Academy",
   "url": "/Kirkacademy.htm",
   "status": "active"
 }, {
-  "id": "kosciusko",
+  "slug": "kosciusko",
   "name": "Kosciusko",
   "url": "/Kosciusko.htm",
   "status": "active"
 }, {
-  "id": "kossuth",
+  "slug": "kossuth",
   "name": "Kossuth",
   "url": "/Kossuth.htm",
   "status": "active"
 }, {
-  "id": "oakforestacademyla",
+  "slug": "oakforestacademyla",
   "name": "Oak Forest Academy (LA)",
   "url": "/Oakforestacademyla.htm",
   "status": "active"
 }, {
-  "id": "oakgrove",
+  "slug": "oakgrove",
   "name": "Oak Grove",
   "url": "/Oakgrove.htm",
   "status": "active"
 }, {
-  "id": "oakhillacademy",
+  "slug": "oakhillacademy",
   "name": "Oak Hill Academy",
   "url": "/Oakhillacademy.htm",
   "status": "active"
 }, {
-  "id": "obannon",
+  "slug": "obannon",
   "name": "O'Bannon",
   "url": "/Obannon.htm",
   "status": "active"
 }, {
-  "id": "oceansprings",
+  "slug": "oceansprings",
   "name": "Ocean Springs",
   "url": "/Oceansprings.htm",
   "status": "active"
 }, {
-  "id": "okolona",
+  "slug": "okolona",
   "name": "Okolona",
   "url": "/Okolona.htm",
   "status": "active"
 }, {
-  "id": "olivebranch",
+  "slug": "olivebranch",
   "name": "Olive Branch",
   "url": "/Olivebranch.htm",
   "status": "active"
 }, {
-  "id": "oxford",
+  "slug": "oxford",
   "name": "Oxford",
   "url": "/Oxford.htm",
   "status": "active"
 }, {
-  "id": "quitman",
+  "slug": "quitman",
   "name": "Quitman",
   "url": "/Quitman.htm",
   "status": "active"
 }, {
-  "id": "union",
+  "slug": "union",
   "name": "Union",
   "url": "/Union.htm",
   "status": "active"
 }, {
-  "id": "unionchristianacademyla",
+  "slug": "unionchristianacademyla",
   "name": "Union Christian Academy (LA)",
   "url": "/Unionchristianacademyla.htm",
   "status": "active"
 }, {
-  "id": "unitychristianacademy",
+  "slug": "unitychristianacademy",
   "name": "Unity Christian Academy",
   "url": "/Unitychristianacademy.htm",
   "status": "active"
 }, {
-  "id": "vancleave",
+  "slug": "vancleave",
   "name": "Vancleave",
   "url": "/Vancleave.htm",
   "status": "active"
 }, {
-  "id": "vardaman",
+  "slug": "vardaman",
   "name": "Vardaman",
   "url": "/Vardaman.htm",
   "status": "active"
 }, {
-  "id": "velmajackson",
+  "slug": "velmajackson",
   "name": "Velma Jackson",
   "url": "/Velmajackson.htm",
   "status": "active"
 }, {
-  "id": "vicksburg",
+  "slug": "vicksburg",
   "name": "Vicksburg",
   "url": "/Vicksburg.htm",
   "status": "active"
 }, {
-  "id": "victorychristianacademy",
+  "slug": "victorychristianacademy",
   "name": "Victory Christian Academy",
   "url": "/Victorychristianacademy.htm",
   "status": "active"
 }, {
-  "id": "yazoocity",
+  "slug": "yazoocity",
   "name": "Yazoo City",
   "url": "/Yazoocity.htm",
   "status": "active"
 }, {
-  "id": "yazoocounty",
+  "slug": "yazoocounty",
   "name": "Yazoo County",
   "url": "/Yazoocounty.htm",
   "status": "active"
 }, {
-  "id": "baldwyn",
+  "slug": "baldwyn",
   "name": "Baldwyn",
   "url": "/Baldwyn.htm",
   "status": "active"
 }, {
-  "id": "bay",
+  "slug": "bay",
   "name": "Bay",
   "url": "/Bay.htm",
   "status": "active"
 }, {
-  "id": "bayouacademy",
+  "slug": "bayouacademy",
   "name": "Bayou Academy",
   "url": "/Bayouacademy.htm",
   "status": "active"
 }, {
-  "id": "baysprings",
+  "slug": "baysprings",
   "name": "Bay Springs",
   "url": "/Baysprings.htm",
   "status": "active"
 }, {
-  "id": "belmont",
+  "slug": "belmont",
   "name": "Belmont",
   "url": "/Belmont.htm",
   "status": "active"
 }, {
-  "id": "bensfordchristianla",
+  "slug": "bensfordchristianla",
   "name": "Ben's Ford Christian (LA)",
   "url": "/Bensfordchristianla.htm",
   "status": "active"
 }, {
-  "id": "bentonacademy",
+  "slug": "bentonacademy",
   "name": "Benton Academy",
   "url": "/Bentonacademy.htm",
   "status": "active"
 }, {
-  "id": "biggersville",
+  "slug": "biggersville",
   "name": "Biggersville",
   "url": "/Biggersville.htm",
   "status": "active"
 }, {
-  "id": "caledonia",
+  "slug": "caledonia",
   "name": "Caledonia",
   "url": "/Caledonia.htm",
   "status": "active"
 }, {
-  "id": "calhounacademy",
+  "slug": "calhounacademy",
   "name": "Calhoun Academy",
   "url": "/Calhounacademy.htm",
   "status": "active"
 }, {
-  "id": "calhouncity",
+  "slug": "calhouncity",
   "name": "Calhoun City",
   "url": "/Calhouncity.htm",
   "status": "active"
 }, {
-  "id": "callaway",
+  "slug": "callaway",
   "name": "Callaway",
   "url": "/Callaway.htm",
   "status": "active"
 }, {
-  "id": "canton",
+  "slug": "canton",
   "name": "Canton",
   "url": "/Canton.htm",
   "status": "active"
 }, {
-  "id": "cantonacademy",
+  "slug": "cantonacademy",
   "name": "Canton Academy",
   "url": "/Cantonacademy.htm",
   "status": "active"
 }, {
-  "id": "carrollacademy",
+  "slug": "carrollacademy",
   "name": "Carroll Academy",
   "url": "/Carrollacademy.htm",
   "status": "active"
 }, {
-  "id": "cathedral",
+  "slug": "cathedral",
   "name": "Cathedral",
   "url": "/Cathedral.htm",
   "status": "active"
 }, {
-  "id": "eastcentral",
+  "slug": "eastcentral",
   "name": "East Central",
   "url": "/Eastcentral.htm",
   "status": "active"
 }, {
-  "id": "eastmarion",
+  "slug": "eastmarion",
   "name": "East Marion",
   "url": "/Eastmarion.htm",
   "status": "active"
 }, {
-  "id": "eastrankinacademy",
+  "slug": "eastrankinacademy",
   "name": "East Rankin Academy",
   "url": "/Eastrankinacademy.htm",
   "status": "active"
 }, {
-  "id": "eastunion",
+  "slug": "eastunion",
   "name": "East Union",
   "url": "/Eastunion.htm",
   "status": "active"
 }, {
-  "id": "eastwebster",
+  "slug": "eastwebster",
   "name": "East Webster",
   "url": "/Eastwebster.htm",
   "status": "active"
 }, {
-  "id": "elzy",
+  "slug": "elzy",
   "name": "Elzy",
   "url": "/Elzy.htm",
   "status": "active"
 }, {
-  "id": "enterpriseclarke",
+  "slug": "enterpriseclarke",
   "name": "Enterprise (Clarke)",
   "url": "/Enterpriseclarke.htm",
   "status": "active"
 }, {
-  "id": "enterpriselincoln",
+  "slug": "enterpriselincoln",
   "name": "Enterprise (Lincoln)",
   "url": "/Enterpriselincoln.htm",
   "status": "active"
 }, {
-  "id": "gautier",
+  "slug": "gautier",
   "name": "Gautier",
   "url": "/Gautier.htm",
   "status": "active"
 }, {
-  "id": "gentry",
+  "slug": "gentry",
   "name": "Gentry",
   "url": "/Gentry.htm",
   "status": "active"
 }, {
-  "id": "george",
+  "slug": "george",
   "name": "George",
   "url": "/George.htm",
   "status": "active"
 }, {
-  "id": "georgecounty",
+  "slug": "georgecounty",
   "name": "George County",
   "url": "/Georgecounty.htm",
   "status": "active"
 }, {
-  "id": "germantown",
+  "slug": "germantown",
   "name": "Germantown",
   "url": "/Germantown.htm",
   "status": "active"
 }, {
-  "id": "glenbrookla",
+  "slug": "glenbrookla",
   "name": "Glenbrook (LA)",
   "url": "/Glenbrookla.htm",
   "status": "active"
 }, {
-  "id": "greenecounty",
+  "slug": "greenecounty",
   "name": "Greene County",
   "url": "/Greenecounty.htm",
   "status": "active"
 }, {
-  "id": "greenville",
+  "slug": "greenville",
   "name": "Greenville",
   "url": "/Greenville.htm",
   "status": "active"
 }, {
-  "id": "hamilton",
+  "slug": "hamilton",
   "name": "Hamilton",
   "url": "/Hamilton.htm",
   "status": "active"
 }, {
-  "id": "hancock",
+  "slug": "hancock",
   "name": "Hancock",
   "url": "/Hancock.htm",
   "status": "active"
 }, {
-  "id": "harrisoncentral",
+  "slug": "harrisoncentral",
   "name": "Harrison Central",
   "url": "/Harrisoncentral.htm",
   "status": "active"
 }, {
-  "id": "hartfieldacademy",
+  "slug": "hartfieldacademy",
   "name": "Hartfield Academy",
   "url": "/Hartfieldacademy.htm",
   "status": "active"
 }, {
-  "id": "hatley",
+  "slug": "hatley",
   "name": "Hatley",
   "url": "/Hatley.htm",
   "status": "active"
 }, {
-  "id": "hattiesburg",
+  "slug": "hattiesburg",
   "name": "Hattiesburg",
   "url": "/Hattiesburg.htm",
   "status": "active"
 }, {
-  "id": "hazlehurst",
+  "slug": "hazlehurst",
   "name": "Hazlehurst",
   "url": "/Hazlehurst.htm",
   "status": "active"
 }, {
-  "id": "heidelberg",
+  "slug": "heidelberg",
   "name": "Heidelberg",
   "url": "/Heidelberg.htm",
   "status": "active"
 }, {
-  "id": "lafayette",
+  "slug": "lafayette",
   "name": "Lafayette",
   "url": "/Lafayette.htm",
   "status": "active"
 }, {
-  "id": "lake",
+  "slug": "lake",
   "name": "Lake",
   "url": "/Lake.htm",
   "status": "active"
 }, {
-  "id": "lakecormorant",
+  "slug": "lakecormorant",
   "name": "Lake Cormorant",
   "url": "/Lakecormorant.htm",
   "status": "active"
 }, {
-  "id": "lamar",
+  "slug": "lamar",
   "name": "Lamar",
   "url": "/Lamar.htm",
   "status": "active"
 }, {
-  "id": "lanier",
+  "slug": "lanier",
   "name": "Lanier",
   "url": "/Lanier.htm",
   "status": "active"
 }, {
-  "id": "laurel",
+  "slug": "laurel",
   "name": "Laurel",
   "url": "/Laurel.htm",
   "status": "active"
 }, {
-  "id": "lawrencecounty",
+  "slug": "lawrencecounty",
   "name": "Lawrence County",
   "url": "/Lawrencecounty.htm",
   "status": "active"
 }, {
-  "id": "leakeacademy",
+  "slug": "leakeacademy",
   "name": "Leake Academy",
   "url": "/Leakeacademy.htm",
   "status": "active"
 }, {
-  "id": "madisoncentral",
+  "slug": "madisoncentral",
   "name": "Madison Central",
   "url": "/Madisoncentral.htm",
   "status": "active"
 }, {
-  "id": "madisonridgelandacademy",
+  "slug": "madisonridgelandacademy",
   "name": "Madison-Ridgeland Academy",
   "url": "/Madisonridgelandacademy.htm",
   "status": "active"
 }, {
-  "id": "magee",
+  "slug": "magee",
   "name": "Magee",
   "url": "/Magee.htm",
   "status": "active"
 }, {
-  "id": "magnoliaheights",
+  "slug": "magnoliaheights",
   "name": "Magnolia Heights",
   "url": "/Magnoliaheights.htm",
   "status": "active"
 }, {
-  "id": "manchesteracademy",
+  "slug": "manchesteracademy",
   "name": "Manchester Academy",
   "url": "/Manchesteracademy.htm",
   "status": "active"
 }, {
-  "id": "mantachie",
+  "slug": "mantachie",
   "name": "Mantachie",
   "url": "/Mantachie.htm",
   "status": "active"
 }, {
-  "id": "marshallacademy",
+  "slug": "marshallacademy",
   "name": "Marshall Academy",
   "url": "/Marshallacademy.htm",
   "status": "active"
 }, {
-  "id": "marvellacademyar",
+  "slug": "marvellacademyar",
   "name": "Marvell Academy (AR)",
   "url": "/Marvellacademyar.htm",
   "status": "active"
 }, {
-  "id": "nanihwaiya",
+  "slug": "nanihwaiya",
   "name": "Nanih Waiya",
   "url": "/Nanihwaiya.htm",
   "status": "active"
 }, {
-  "id": "natchez",
+  "slug": "natchez",
   "name": "Natchez",
   "url": "/Natchez.htm",
   "status": "active"
 }, {
-  "id": "neshobacentral",
+  "slug": "neshobacentral",
   "name": "Neshoba Central",
   "url": "/Neshobacentral.htm",
   "status": "active"
 }, {
-  "id": "nettleton",
+  "slug": "nettleton",
   "name": "Nettleton",
   "url": "/Nettleton.htm",
   "status": "active"
 }, {
-  "id": "newalbany",
+  "slug": "newalbany",
   "name": "New Albany",
   "url": "/Newalbany.htm",
   "status": "active"
 }, {
-  "id": "newhope",
+  "slug": "newhope",
   "name": "New Hope",
   "url": "/Newhope.htm",
   "status": "active"
 }, {
-  "id": "newsite",
+  "slug": "newsite",
   "name": "New Site",
   "url": "/Newsite.htm",
   "status": "active"
 }, {
-  "id": "newton",
+  "slug": "newton",
   "name": "Newton",
   "url": "/Newton.htm",
   "status": "active"
 }, {
-  "id": "palmer",
+  "slug": "palmer",
   "name": "Palmer",
   "url": "/Palmer.htm",
   "status": "active"
 }, {
-  "id": "parkplacechristianacademy",
+  "slug": "parkplacechristianacademy",
   "name": "Park Place Christian Academy",
   "url": "/Parkplacechristianacademy.htm",
   "status": "active"
 }, {
-  "id": "parklaneacademy",
+  "slug": "parklaneacademy",
   "name": "Parklane Academy",
   "url": "/Parklaneacademy.htm",
   "status": "active"
 }, {
-  "id": "pascagoula",
+  "slug": "pascagoula",
   "name": "Pascagoula",
   "url": "/Pascagoula.htm",
   "status": "active"
 }, {
-  "id": "passchristian",
+  "slug": "passchristian",
   "name": "Pass Christian",
   "url": "/Passchristian.htm",
   "status": "active"
 }, {
-  "id": "pearl",
+  "slug": "pearl",
   "name": "Pearl",
   "url": "/Pearl.htm",
   "status": "active"
 }, {
-  "id": "pearlrivercentral",
+  "slug": "pearlrivercentral",
   "name": "Pearl River Central",
   "url": "/Pearlrivercentral.htm",
   "status": "active"
 }, {
-  "id": "pelahatchie",
+  "slug": "pelahatchie",
   "name": "Pelahatchie",
   "url": "/Pelahatchie.htm",
   "status": "active"
 }, {
-  "id": "raleigh",
+  "slug": "raleigh",
   "name": "Raleigh",
   "url": "/Raleigh.htm",
   "status": "active"
 }, {
-  "id": "raymond",
+  "slug": "raymond",
   "name": "Raymond",
   "url": "/Raymond.htm",
   "status": "active"
 }, {
-  "id": "rebulacademy",
+  "slug": "rebulacademy",
   "name": "Rebul Academy",
   "url": "/Rebulacademy.htm",
   "status": "active"
 }, {
-  "id": "resurrection",
+  "slug": "resurrection",
   "name": "Resurrection",
   "url": "/Resurrection.htm",
   "status": "active"
 }, {
-  "id": "richland",
+  "slug": "richland",
   "name": "Richland",
   "url": "/Richland.htm",
   "status": "active"
 }, {
-  "id": "richton",
+  "slug": "richton",
   "name": "Richton",
   "url": "/Richton.htm",
   "status": "active"
 }, {
-  "id": "ridgeland",
+  "slug": "ridgeland",
   "name": "Ridgeland",
   "url": "/Ridgeland.htm",
   "status": "active"
 }, {
-  "id": "ripley",
+  "slug": "ripley",
   "name": "Ripley",
   "url": "/Ripley.htm",
   "status": "active"
 }, {
-  "id": "sacredheart",
+  "slug": "sacredheart",
   "name": "Sacred Heart",
   "url": "/Sacredheart.htm",
   "status": "active"
 }, {
-  "id": "saintaloysius",
+  "slug": "saintaloysius",
   "name": "Saint Aloysius",
   "url": "/Saintaloysius.htm",
   "status": "active"
 }, {
-  "id": "saintandrewsepiscopal",
+  "slug": "saintandrewsepiscopal",
   "name": "Saint Andrew's Episcopal",
   "url": "/Saintandrewsepiscopal.htm",
   "status": "active"
 }, {
-  "id": "saintjosephgreenville",
+  "slug": "saintjosephgreenville",
   "name": "Saint Joseph (Greenville)",
   "url": "/Saintjosephgreenville.htm",
   "status": "active"
 }, {
-  "id": "saintjosephmadison",
+  "slug": "saintjosephmadison",
   "name": "Saint Joseph (Madison)",
   "url": "/Saintjosephmadison.htm",
   "status": "active"
 }, {
-  "id": "saintmartin",
+  "slug": "saintmartin",
   "name": "Saint Martin",
   "url": "/Saintmartin.htm",
   "status": "active"
 }, {
-  "id": "saintpatrick",
+  "slug": "saintpatrick",
   "name": "Saint Patrick",
   "url": "/Saintpatrick.htm",
   "status": "active"
 }, {
-  "id": "saintstanislaus",
+  "slug": "saintstanislaus",
   "name": "Saint Stanislaus",
   "url": "/Saintstanislaus.htm",
   "status": "active"
 }, {
-  "id": "tallulahacademyla",
+  "slug": "tallulahacademyla",
   "name": "Tallulah Academy (LA)",
   "url": "/Tallulahacademyla.htm",
   "status": "active"
 }, {
-  "id": "taylorsville",
+  "slug": "taylorsville",
   "name": "Taylorsville",
   "url": "/Taylorsville.htm",
   "status": "active"
 }, {
-  "id": "tensasacademyla",
+  "slug": "tensasacademyla",
   "name": "Tensas Academy (LA)",
   "url": "/Tensasacademyla.htm",
   "status": "active"
 }, {
-  "id": "terry",
+  "slug": "terry",
   "name": "Terry",
   "url": "/Terry.htm",
   "status": "active"
 }, {
-  "id": "thrasher",
+  "slug": "thrasher",
   "name": "Thrasher",
   "url": "/Thrasher.htm",
   "status": "active"
 }, {
-  "id": "tishomingocounty",
+  "slug": "tishomingocounty",
   "name": "Tishomingo County",
   "url": "/Tishomingocounty.htm",
   "status": "active"
 }, {
-  "id": "tricountyacademy",
+  "slug": "tricountyacademy",
   "name": "Tri-County Academy",
   "url": "/Tricountyacademy.htm",
   "status": "active"
 }, {
-  "id": "trinityepiscopal",
+  "slug": "trinityepiscopal",
   "name": "Trinity Episcopal",
   "url": "/Trinityepiscopal.htm",
   "status": "active"
 }, {
-  "id": "walnut",
+  "slug": "walnut",
   "name": "Walnut",
   "url": "/Walnut.htm",
   "status": "active"
 }, {
-  "id": "warrencentral",
+  "slug": "warrencentral",
   "name": "Warren Central",
   "url": "/Warrencentral.htm",
   "status": "active"
 }, {
-  "id": "washington",
+  "slug": "washington",
   "name": "Washington",
   "url": "/Washington.htm",
   "status": "active"
 }, {
-  "id": "watervalley",
+  "slug": "watervalley",
   "name": "Water Valley",
   "url": "/Watervalley.htm",
   "status": "active"
 }, {
-  "id": "wayneacademy",
+  "slug": "wayneacademy",
   "name": "Wayne Academy",
   "url": "/Wayneacademy.htm",
   "status": "active"
 }, {
-  "id": "waynecounty",
+  "slug": "waynecounty",
   "name": "Wayne County",
   "url": "/Waynecounty.htm",
   "status": "active"
 }, {
-  "id": "wesson",
+  "slug": "wesson",
   "name": "Wesson",
   "url": "/Wesson.htm",
   "status": "active"
 }, {
-  "id": "westbolivar",
+  "slug": "westbolivar",
   "name": "West Bolivar",
   "url": "/Westbolivar.htm",
   "status": "active"
 }, {
-  "id": "biloxi",
+  "slug": "biloxi",
   "name": "Biloxi",
   "url": "/Biloxi.htm",
   "status": "active"
 }, {
-  "id": "boguechitto",
+  "slug": "boguechitto",
   "name": "Bogue Chitto",
   "url": "/Boguechitto.htm",
   "status": "active"
 }, {
-  "id": "booneville",
+  "slug": "booneville",
   "name": "Booneville",
   "url": "/Booneville.htm",
   "status": "active"
 }, {
-  "id": "bowlinggreenla",
+  "slug": "bowlinggreenla",
   "name": "Bowling Green (LA)",
   "url": "/Bowlinggreenla.htm",
   "status": "active"
 }, {
-  "id": "brandon",
+  "slug": "brandon",
   "name": "Brandon",
   "url": "/Brandon.htm",
   "status": "active"
 }, {
-  "id": "briarfieldacademyla",
+  "slug": "briarfieldacademyla",
   "name": "Briarfield Academy (LA)",
   "url": "/Briarfieldacademyla.htm",
   "status": "active"
 }, {
-  "id": "broadstreet",
+  "slug": "broadstreet",
   "name": "Broad Street",
   "url": "/Broadstreet.htm",
   "status": "active"
 }, {
-  "id": "brookhaven",
+  "slug": "brookhaven",
   "name": "Brookhaven",
   "url": "/Brookhaven.htm",
   "status": "active"
 }, {
-  "id": "centerhill",
+  "slug": "centerhill",
   "name": "Center Hill",
   "url": "/Centerhill.htm",
   "status": "active"
 }, {
-  "id": "centralhindsacademy",
+  "slug": "centralhindsacademy",
   "name": "Central Hinds Academy",
   "url": "/Centralhindsacademy.htm",
   "status": "active"
 }, {
-  "id": "centralholmeschristian",
+  "slug": "centralholmeschristian",
   "name": "Central Holmes Christian",
   "url": "/Centralholmeschristian.htm",
   "status": "active"
 }, {
-  "id": "centralprivatela",
+  "slug": "centralprivatela",
   "name": "Central Private (LA)",
   "url": "/Centralprivatela.htm",
   "status": "active"
 }, {
-  "id": "centrevilleacademy",
+  "slug": "centrevilleacademy",
   "name": "Centreville Academy",
   "url": "/Centrevilleacademy.htm",
   "status": "active"
 }, {
-  "id": "charleston",
+  "slug": "charleston",
   "name": "Charleston",
   "url": "/Charleston.htm",
   "status": "active"
 }, {
-  "id": "choctawcentral",
+  "slug": "choctawcentral",
   "name": "Choctaw Central",
   "url": "/Choctawcentral.htm",
   "status": "active"
 }, {
-  "id": "choctawcounty",
+  "slug": "choctawcounty",
   "name": "Choctaw County",
   "url": "/Choctawcounty.htm",
   "status": "active"
 }, {
-  "id": "christiancollegiateacademy",
+  "slug": "christiancollegiateacademy",
   "name": "Christian Collegiate Academy",
   "url": "/Christiancollegiateacademy.htm",
   "status": "active"
 }, {
-  "id": "claiborneacademyla",
+  "slug": "claiborneacademyla",
   "name": "Claiborne Academy (LA)",
   "url": "/Claiborneacademyla.htm",
   "status": "active"
 }, {
-  "id": "clarkdale",
+  "slug": "clarkdale",
   "name": "Clarkdale",
   "url": "/Clarkdale.htm",
   "status": "active"
 }, {
-  "id": "clarksdale",
+  "slug": "clarksdale",
   "name": "Clarksdale",
   "url": "/Clarksdale.htm",
   "status": "active"
 }, {
-  "id": "clevelandcentral",
+  "slug": "clevelandcentral",
   "name": "Cleveland Central",
   "url": "/Clevelandcentral.htm",
   "status": "active"
 }, {
-  "id": "clinton",
+  "slug": "clinton",
   "name": "Clinton",
   "url": "/Clinton.htm",
   "status": "active"
 }, {
-  "id": "clintonchristianacademy",
+  "slug": "clintonchristianacademy",
   "name": "Clinton Christian Academy",
   "url": "/Clintonchristianacademy.htm",
   "status": "active"
 }, {
-  "id": "coahomaahs",
+  "slug": "coahomaahs",
   "name": "Coahoma AHS",
   "url": "/Coahomaahs.htm",
   "status": "active"
 }, {
-  "id": "coahomacounty",
+  "slug": "coahomacounty",
   "name": "Coahoma County",
   "url": "/Coahomacounty.htm",
   "status": "active"
 }, {
-  "id": "coffeeville",
+  "slug": "coffeeville",
   "name": "Coffeeville",
   "url": "/Coffeeville.htm",
   "status": "active"
 }, {
-  "id": "coldwater",
+  "slug": "coldwater",
   "name": "Coldwater",
   "url": "/Coldwater.htm",
   "status": "active"
 }, {
-  "id": "collins",
+  "slug": "collins",
   "name": "Collins",
   "url": "/Collins.htm",
   "status": "active"
 }, {
-  "id": "columbia",
+  "slug": "columbia",
   "name": "Columbia",
   "url": "/Columbia.htm",
   "status": "active"
 }, {
-  "id": "columbiaacademy",
+  "slug": "columbiaacademy",
   "name": "Columbia Academy",
   "url": "/Columbiaacademy.htm",
   "status": "active"
 }, {
-  "id": "columbus",
+  "slug": "columbus",
   "name": "Columbus",
   "url": "/Columbus.htm",
   "status": "active"
 }, {
-  "id": "columbuschristianacademy",
+  "slug": "columbuschristianacademy",
   "name": "Columbus Christian Academy",
   "url": "/Columbuschristianacademy.htm",
   "status": "active"
 }, {
-  "id": "heritageacademy",
+  "slug": "heritageacademy",
   "name": "Heritage Academy",
   "url": "/Heritageacademy.htm",
   "status": "active"
 }, {
-  "id": "hernando",
+  "slug": "hernando",
   "name": "Hernando",
   "url": "/Hernando.htm",
   "status": "active"
 }, {
-  "id": "hickoryflat",
+  "slug": "hickoryflat",
   "name": "Hickory Flat",
   "url": "/Hickoryflat.htm",
   "status": "active"
 }, {
-  "id": "hill",
+  "slug": "hill",
   "name": "Hill",
   "url": "/Hill.htm",
   "status": "active"
 }, {
-  "id": "hillcrestchristian",
+  "slug": "hillcrestchristian",
   "name": "Hillcrest Christian",
   "url": "/Hillcrestchristian.htm",
   "status": "active"
 }, {
-  "id": "hollysprings",
+  "slug": "hollysprings",
   "name": "Holly Springs",
   "url": "/Hollysprings.htm",
   "status": "active"
 }, {
-  "id": "holmescountycentral",
+  "slug": "holmescountycentral",
   "name": "Holmes County Central",
   "url": "/Holmescountycentral.htm",
   "status": "active"
 }, {
-  "id": "hornlake",
+  "slug": "hornlake",
   "name": "Horn Lake",
   "url": "/Hornlake.htm",
   "status": "active"
 }, {
-  "id": "leakecentral",
+  "slug": "leakecentral",
   "name": "Leake Central",
   "url": "/Leakecentral.htm",
   "status": "active"
 }, {
-  "id": "leakecounty",
+  "slug": "leakecounty",
   "name": "Leake County",
   "url": "/Leakecounty.htm",
   "status": "active"
 }, {
-  "id": "leeacademy",
+  "slug": "leeacademy",
   "name": "Lee Academy",
   "url": "/Leeacademy.htm",
   "status": "active"
 }, {
-  "id": "leeacademyar",
+  "slug": "leeacademyar",
   "name": "Lee Academy (AR)",
   "url": "/Leeacademyar.htm",
   "status": "active"
 }, {
-  "id": "leflorecounty",
+  "slug": "leflorecounty",
   "name": "Leflore County",
   "url": "/Leflorecounty.htm",
   "status": "active"
 }, {
-  "id": "leland",
+  "slug": "leland",
   "name": "Leland",
   "url": "/Leland.htm",
   "status": "active"
 }, {
-  "id": "lewisburg",
+  "slug": "lewisburg",
   "name": "Lewisburg",
   "url": "/Lewisburg.htm",
   "status": "active"
 }, {
-  "id": "longbeach",
+  "slug": "longbeach",
   "name": "Long Beach",
   "url": "/Longbeach.htm",
   "status": "active"
 }, {
-  "id": "mcadams",
+  "slug": "mcadams",
   "name": "McAdams",
   "url": "/Mcadams.htm",
   "status": "active"
 }, {
-  "id": "mccomb",
+  "slug": "mccomb",
   "name": "McComb",
   "url": "/Mccomb.htm",
   "status": "active"
 }, {
-  "id": "mclaurin",
+  "slug": "mclaurin",
   "name": "McLaurin",
   "url": "/Mclaurin.htm",
   "status": "active"
 }, {
-  "id": "mendenhall",
+  "slug": "mendenhall",
   "name": "Mendenhall",
   "url": "/Mendenhall.htm",
   "status": "active"
 }, {
-  "id": "meridian",
+  "slug": "meridian",
   "name": "Meridian",
   "url": "/Meridian.htm",
   "status": "active"
 }, {
-  "id": "msd",
+  "slug": "msd",
   "name": "Mississippi School for the Deaf",
   "url": "/MSD.htm",
   "status": "active"
 }, {
-  "id": "mize",
+  "slug": "mize",
   "name": "Mize",
   "url": "/Mize.htm",
   "status": "active"
 }, {
-  "id": "montgomerycounty",
+  "slug": "montgomerycounty",
   "name": "Montgomery County",
   "url": "/Montgomerycounty.htm",
   "status": "active"
 }, {
-  "id": "newtoncounty",
+  "slug": "newtoncounty",
   "name": "Newton County",
   "url": "/Newtoncounty.htm",
   "status": "active"
 }, {
-  "id": "newtoncountyacademy",
+  "slug": "newtoncountyacademy",
   "name": "Newton County Academy",
   "url": "/Newtoncountyacademy.htm",
   "status": "active"
 }, {
-  "id": "northdelta",
+  "slug": "northdelta",
   "name": "North Delta",
   "url": "/Northdelta.htm",
   "status": "active"
 }, {
-  "id": "northforrest",
+  "slug": "northforrest",
   "name": "North Forrest",
   "url": "/Northforrest.htm",
   "status": "active"
 }, {
-  "id": "northpanola",
+  "slug": "northpanola",
   "name": "North Panola",
   "url": "/Northpanola.htm",
   "status": "active"
 }, {
-  "id": "northpike",
+  "slug": "northpike",
   "name": "North Pike",
   "url": "/Northpike.htm",
   "status": "active"
 }, {
-  "id": "northpontotoc",
+  "slug": "northpontotoc",
   "name": "North Pontotoc",
   "url": "/Northpontotoc.htm",
   "status": "active"
 }, {
-  "id": "northsunfloweracademy",
+  "slug": "northsunfloweracademy",
   "name": "North Sunflower Academy",
   "url": "/Northsunfloweracademy.htm",
   "status": "active"
 }, {
-  "id": "perrycentral",
+  "slug": "perrycentral",
   "name": "Perry Central",
   "url": "/Perrycentral.htm",
   "status": "active"
 }, {
-  "id": "petal",
+  "slug": "petal",
   "name": "Petal",
   "url": "/Petal.htm",
   "status": "active"
 }, {
-  "id": "philadelphia",
+  "slug": "philadelphia",
   "name": "Philadelphia",
   "url": "/Philadelphia.htm",
   "status": "active"
 }, {
-  "id": "picayune",
+  "slug": "picayune",
   "name": "Picayune",
   "url": "/Picayune.htm",
   "status": "active"
 }, {
-  "id": "pillowacademy",
+  "slug": "pillowacademy",
   "name": "Pillow Academy",
   "url": "/Pillowacademy.htm",
   "status": "active"
 }, {
-  "id": "pisgah",
+  "slug": "pisgah",
   "name": "Pisgah",
   "url": "/Pisgah.htm",
   "status": "active"
 }, {
-  "id": "pontotoc",
+  "slug": "pontotoc",
   "name": "Pontotoc",
   "url": "/Pontotoc.htm",
   "status": "active"
 }, {
-  "id": "poplarville",
+  "slug": "poplarville",
   "name": "Poplarville",
   "url": "/Poplarville.htm",
   "status": "active"
 }, {
-  "id": "portgibson",
+  "slug": "portgibson",
   "name": "Port Gibson",
   "url": "/Portgibson.htm",
   "status": "active"
 }, {
-  "id": "porterschapelacademy",
+  "slug": "porterschapelacademy",
   "name": "Porter's Chapel Academy",
   "url": "/Porterschapelacademy.htm",
   "status": "active"
 }, {
-  "id": "pottscamp",
+  "slug": "pottscamp",
   "name": "Potts Camp",
   "url": "/Pottscamp.htm",
   "status": "active"
 }, {
-  "id": "prairieviewacademyla",
+  "slug": "prairieviewacademyla",
   "name": "Prairie View Academy (LA)",
   "url": "/Prairieviewacademyla.htm",
   "status": "active"
 }, {
-  "id": "prentisschristian",
+  "slug": "prentisschristian",
   "name": "Prentiss Christian",
   "url": "/Prentisschristian.htm",
   "status": "active"
 }, {
-  "id": "presbyterianchristian",
+  "slug": "presbyterianchristian",
   "name": "Presbyterian Christian",
   "url": "/Presbyterianchristian.htm",
   "status": "active"
 }, {
-  "id": "provine",
+  "slug": "provine",
   "name": "Provine",
   "url": "/Provine.htm",
   "status": "active"
 }, {
-  "id": "puckett",
+  "slug": "puckett",
   "name": "Puckett",
   "url": "/Puckett.htm",
   "status": "active"
 }, {
-  "id": "salem",
+  "slug": "salem",
   "name": "Salem",
   "url": "/Salem.htm",
   "status": "active"
 }, {
-  "id": "saltillo",
+  "slug": "saltillo",
   "name": "Saltillo",
   "url": "/Saltillo.htm",
   "status": "active"
 }, {
-  "id": "scottcentral",
+  "slug": "scottcentral",
   "name": "Scott Central",
   "url": "/Scottcentral.htm",
   "status": "active"
 }, {
-  "id": "sebastopol",
+  "slug": "sebastopol",
   "name": "Sebastopol",
   "url": "/Sebastopol.htm",
   "status": "active"
 }, {
-  "id": "seminary",
+  "slug": "seminary",
   "name": "Seminary",
   "url": "/Seminary.htm",
   "status": "active"
 }, {
-  "id": "senatobia",
+  "slug": "senatobia",
   "name": "Senatobia",
   "url": "/Senatobia.htm",
   "status": "active"
 }, {
-  "id": "shannon",
+  "slug": "shannon",
   "name": "Shannon",
   "url": "/Shannon.htm",
   "status": "active"
 }, {
-  "id": "sharkeyissaquenaacademy",
+  "slug": "sharkeyissaquenaacademy",
   "name": "Sharkey-Issaquena Academy",
   "url": "/Sharkeyissaquenaacademy.htm",
   "status": "active"
 }, {
-  "id": "shaw",
+  "slug": "shaw",
   "name": "Shaw",
   "url": "/Shaw.htm",
   "status": "active"
 }, {
-  "id": "sillimanla",
+  "slug": "sillimanla",
   "name": "Silliman (LA)",
   "url": "/Sillimanla.htm",
   "status": "active"
 }, {
-  "id": "simmons",
+  "slug": "simmons",
   "name": "Simmons",
   "url": "/Simmons.htm",
   "status": "active"
 }, {
-  "id": "simpsoncountyacademy",
+  "slug": "simpsoncountyacademy",
   "name": "Simpson County Academy",
   "url": "/Simpsoncountyacademy.htm",
   "status": "active"
 }, {
-  "id": "smithville",
+  "slug": "smithville",
   "name": "Smithville",
   "url": "/Smithville.htm",
   "status": "active"
 }, {
-  "id": "southdelta",
+  "slug": "southdelta",
   "name": "South Delta",
   "url": "/Southdelta.htm",
   "status": "active"
 }, {
-  "id": "southjones",
+  "slug": "southjones",
   "name": "South Jones",
   "url": "/Southjones.htm",
   "status": "active"
 }, {
-  "id": "southpanola",
+  "slug": "southpanola",
   "name": "South Panola",
   "url": "/Southpanola.htm",
   "status": "active"
 }, {
-  "id": "southpike",
+  "slug": "southpike",
   "name": "South Pike",
   "url": "/Southpike.htm",
   "status": "active"
 }, {
-  "id": "southpontotoc",
+  "slug": "southpontotoc",
   "name": "South Pontotoc",
   "url": "/Southpontotoc.htm",
   "status": "active"
 }, {
-  "id": "southaven",
+  "slug": "southaven",
   "name": "Southaven",
   "url": "/Southaven.htm",
   "status": "active"
 }, {
-  "id": "southeastlauderdale",
+  "slug": "southeastlauderdale",
   "name": "Southeast Lauderdale",
   "url": "/Southeastlauderdale.htm",
   "status": "active"
 }, {
-  "id": "starkville",
+  "slug": "starkville",
   "name": "Starkville",
   "url": "/Starkville.htm",
   "status": "active"
 }, {
-  "id": "starkvilleacademy",
+  "slug": "starkvilleacademy",
   "name": "Starkville Academy",
   "url": "/Starkvilleacademy.htm",
   "status": "active"
 }, {
-  "id": "stone",
+  "slug": "stone",
   "name": "Stone",
   "url": "/Stone.htm",
   "status": "active"
 }, {
-  "id": "strayhorn",
+  "slug": "strayhorn",
   "name": "Strayhorn",
   "url": "/Strayhorn.htm",
   "status": "active"
 }, {
-  "id": "westharrison",
+  "slug": "westharrison",
   "name": "West Harrison",
   "url": "/Westharrison.htm",
   "status": "active"
 }, {
-  "id": "westjones",
+  "slug": "westjones",
   "name": "West Jones",
   "url": "/Westjones.htm",
   "status": "active"
 }, {
-  "id": "westlauderdale",
+  "slug": "westlauderdale",
   "name": "West Lauderdale",
   "url": "/Westlauderdale.htm",
   "status": "active"
 }, {
-  "id": "westlincoln",
+  "slug": "westlincoln",
   "name": "West Lincoln",
   "url": "/Westlincoln.htm",
   "status": "active"
 }, {
-  "id": "westlowndes",
+  "slug": "westlowndes",
   "name": "West Lowndes",
   "url": "/Westlowndes.htm",
   "status": "active"
 }, {
-  "id": "westmarion",
+  "slug": "westmarion",
   "name": "West Marion",
   "url": "/Westmarion.htm",
   "status": "active"
 }, {
-  "id": "westmemphischristianar",
+  "slug": "westmemphischristianar",
   "name": "West Memphis Christian (AR)",
   "url": "/Westmemphischristianar.htm",
   "status": "active"
 }, {
-  "id": "westpoint",
+  "slug": "westpoint",
   "name": "West Point",
   "url": "/Westpoint.htm",
   "status": "active"
 }, {
-  "id": "brookhavenacademy",
+  "slug": "brookhavenacademy",
   "name": "Brookhaven Academy",
   "url": "/Brookhavenacademy.htm",
   "status": "active"
 }, {
-  "id": "brooks",
+  "slug": "brooks",
   "name": "Brooks",
   "url": "/Brooks.htm",
   "status": "active"
 }, {
-  "id": "bruce",
+  "slug": "bruce",
   "name": "Bruce",
   "url": "/Bruce.htm",
   "status": "active"
 }, {
-  "id": "byers",
+  "slug": "byers",
   "name": "Byers",
   "url": "/Byers.htm",
   "status": "active"
 }, {
-  "id": "byhalia",
+  "slug": "byhalia",
   "name": "Byhalia",
   "url": "/Byhalia.htm",
   "status": "active"
 }, {
-  "id": "copiahacademy",
+  "slug": "copiahacademy",
   "name": "Copiah Academy",
   "url": "/Copiahacademy.htm",
   "status": "active"
 }, {
-  "id": "corinth",
+  "slug": "corinth",
   "name": "Corinth",
   "url": "/Corinth.htm",
   "status": "active"
 }, {
-  "id": "crystalsprings",
+  "slug": "crystalsprings",
   "name": "Crystal Springs",
   "url": "/Crystalsprings.htm",
   "status": "active"
 }, {
-  "id": "ethel",
+  "slug": "ethel",
   "name": "Ethel",
   "url": "/Ethel.htm",
   "status": "active"
 }, {
-  "id": "eupora",
+  "slug": "eupora",
   "name": "Eupora",
   "url": "/Eupora.htm",
   "status": "active"
 }, {
-  "id": "greenvillechristian",
+  "slug": "greenvillechristian",
   "name": "Greenville Christian",
   "url": "/Greenvillechristian.htm",
   "status": "active"
 }, {
-  "id": "greenwood",
+  "slug": "greenwood",
   "name": "Greenwood",
   "url": "/Greenwood.htm",
   "status": "active"
 }, {
-  "id": "grenada",
+  "slug": "grenada",
   "name": "Grenada",
   "url": "/Grenada.htm",
   "status": "active"
 }, {
-  "id": "gulfport",
+  "slug": "gulfport",
   "name": "Gulfport",
   "url": "/Gulfport.htm",
   "status": "active"
 }, {
-  "id": "houston",
+  "slug": "houston",
   "name": "Houston",
   "url": "/Houston.htm",
   "status": "active"
 }, {
-  "id": "humphreysacademy",
+  "slug": "humphreysacademy",
   "name": "Humphreys Academy",
   "url": "/Humphreysacademy.htm",
   "status": "active"
 }, {
-  "id": "humphreyscounty",
+  "slug": "humphreyscounty",
   "name": "Humphreys County",
   "url": "/Humphreyscounty.htm",
   "status": "active"
 }, {
-  "id": "louisville",
+  "slug": "louisville",
   "name": "Louisville",
   "url": "/Louisville.htm",
   "status": "active"
 }, {
-  "id": "loydstar",
+  "slug": "loydstar",
   "name": "Loyd Star",
   "url": "/Loydstar.htm",
   "status": "active"
 }, {
-  "id": "lumberton",
+  "slug": "lumberton",
   "name": "Lumberton",
   "url": "/Lumberton.htm",
   "status": "active"
 }, {
-  "id": "mooreville",
+  "slug": "mooreville",
   "name": "Mooreville",
   "url": "/Mooreville.htm",
   "status": "active"
 }, {
-  "id": "morton",
+  "slug": "morton",
   "name": "Morton",
   "url": "/Morton.htm",
   "status": "active"
 }, {
-  "id": "mosspoint",
+  "slug": "mosspoint",
   "name": "Moss Point",
   "url": "/Mosspoint.htm",
   "status": "active"
 }, {
-  "id": "mountolive",
+  "slug": "mountolive",
   "name": "Mount Olive",
   "url": "/Mountolive.htm",
   "status": "active"
 }, {
-  "id": "murrah",
+  "slug": "murrah",
   "name": "Murrah",
   "url": "/Murrah.htm",
   "status": "active"
 }, {
-  "id": "myrtle",
+  "slug": "myrtle",
   "name": "Myrtle",
   "url": "/Myrtle.htm",
   "status": "active"
 }, {
-  "id": "northeastjones",
+  "slug": "northeastjones",
   "name": "Northeast Jones",
   "url": "/Northeastjones.htm",
   "status": "active"
 }, {
-  "id": "northeastlauderdale",
+  "slug": "northeastlauderdale",
   "name": "Northeast Lauderdale",
   "url": "/Northeastlauderdale.htm",
   "status": "active"
 }, {
-  "id": "northpointchristian",
+  "slug": "northpointchristian",
   "name": "Northpoint Christian",
   "url": "/Northpointchristian.htm",
   "status": "active"
 }, {
-  "id": "northwestrankin",
+  "slug": "northwestrankin",
   "name": "Northwest Rankin",
   "url": "/Northwestrankin.htm",
   "status": "active"
 }, {
-  "id": "noxapater",
+  "slug": "noxapater",
   "name": "Noxapater",
   "url": "/Noxapater.htm",
   "status": "active"
 }, {
-  "id": "noxubeecounty",
+  "slug": "noxubeecounty",
   "name": "Noxubee County",
   "url": "/Noxubeecounty.htm",
   "status": "active"
 }, {
-  "id": "purvis",
+  "slug": "purvis",
   "name": "Purvis",
   "url": "/Purvis.htm",
   "status": "active"
 }, {
-  "id": "riveroaksla",
+  "slug": "riveroaksla",
   "name": "River Oaks (LA)",
   "url": "/Riveroaksla.htm",
   "status": "active"
 }, {
-  "id": "riverdaleacademyla",
+  "slug": "riverdaleacademyla",
   "name": "Riverdale Academy (LA)",
   "url": "/Riverdaleacademyla.htm",
   "status": "active"
 }, {
-  "id": "riverfieldacademyla",
+  "slug": "riverfieldacademyla",
   "name": "Riverfield Academy (LA)",
   "url": "/Riverfieldacademyla.htm",
   "status": "active"
 }, {
-  "id": "riverside",
+  "slug": "riverside",
   "name": "Riverside",
   "url": "/Riverside.htm",
   "status": "active"
 }, {
-  "id": "rosafort",
+  "slug": "rosafort",
   "name": "Rosa Fort",
   "url": "/Rosafort.htm",
   "status": "active"
 }, {
-  "id": "rulevillecentral",
+  "slug": "rulevillecentral",
   "name": "Ruleville Central",
   "url": "/Rulevillecentral.htm",
   "status": "active"
 }, {
-  "id": "russellchristianacademy",
+  "slug": "russellchristianacademy",
   "name": "Russell Christian Academy",
   "url": "/Russellchristianacademy.htm",
   "status": "active"
 }, {
-  "id": "strideracademy",
+  "slug": "strideracademy",
   "name": "Strider Academy",
   "url": "/Strideracademy.htm",
   "status": "active"
 }, {
-  "id": "stringer",
+  "slug": "stringer",
   "name": "Stringer",
   "url": "/Stringer.htm",
   "status": "active"
 }, {
-  "id": "sumrall",
+  "slug": "sumrall",
   "name": "Sumrall",
   "url": "/Sumrall.htm",
   "status": "active"
 }, {
-  "id": "sylvabayacademy",
+  "slug": "sylvabayacademy",
   "name": "Sylva Bay Academy",
   "url": "/Sylvabayacademy.htm",
   "status": "active"
 }, {
-  "id": "tunicaacademy",
+  "slug": "tunicaacademy",
   "name": "Tunica Academy",
   "url": "/Tunicaacademy.htm",
   "status": "active"
 }, {
-  "id": "tupelo",
+  "slug": "tupelo",
   "name": "Tupelo",
   "url": "/Tupelo.htm",
   "status": "active"
 }, {
-  "id": "tupelochristianprep",
+  "slug": "tupelochristianprep",
   "name": "Tupelo Christian Prep",
   "url": "/Tupelochristianprep.htm",
   "status": "active"
 }, {
-  "id": "tylertown",
+  "slug": "tylertown",
   "name": "Tylertown",
   "url": "/Tylertown.htm",
   "status": "active"
 }, {
-  "id": "westtallahatchie",
+  "slug": "westtallahatchie",
   "name": "West Tallahatchie",
   "url": "/Westtallahatchie.htm",
   "status": "active"
 }, {
-  "id": "wilkinsoncounty",
+  "slug": "wilkinsoncounty",
   "name": "Wilkinson County",
   "url": "/Wilkinsoncounty.htm",
   "status": "active"
 }, {
-  "id": "wilkinsoncountychristianacademy",
+  "slug": "wilkinsoncountychristianacademy",
   "name": "Wilkinson County Christian Academy",
   "url": "/Wilkinsoncountychristianacademy.htm",
   "status": "active"
 }, {
-  "id": "wingfield",
+  "slug": "wingfield",
   "name": "Wingfield",
   "url": "/Wingfield.htm",
   "status": "active"
 }, {
-  "id": "winona",
+  "slug": "winona",
   "name": "Winona",
   "url": "/Winona.htm",
   "status": "active"
 }, {
-  "id": "winonachristian",
+  "slug": "winonachristian",
   "name": "Winona Christian",
   "url": "/Winonachristian.htm",
   "status": "active"
 }, {
-  "id": "winstonacademy",
+  "slug": "winstonacademy",
   "name": "Winston Academy",
   "url": "/Winstonacademy.htm",
   "status": "active"
